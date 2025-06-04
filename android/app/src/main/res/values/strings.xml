@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RN77REVO</string>
+    <string moduleConfig="true" name="CodePushServerUrl">https://api.revopush.org</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">ECmhGpml7Lx85N9lIkNgEFFal-3pE1tqwDMMGl</string>
 </resources>
